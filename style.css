@@ -1,0 +1,22 @@
+body
+{
+ background-size:cover;
+ background-position: center;
+}
+
+.heading{
+    width:100%;
+    text-align: left;
+}
+
+.heading h1 {
+    color:white;
+    font-size: 30px;
+    display:inline;
+}
+
+.heading button{
+    border-color: white;
+    float:right;
+    
+}
